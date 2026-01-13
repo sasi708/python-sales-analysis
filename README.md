@@ -43,3 +43,7 @@ The Power BI dashboard includes:
 ```bash
 pip install numpy
 python main.py
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
